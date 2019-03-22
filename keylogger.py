@@ -2,7 +2,7 @@
 #                      Keylogger Python                            #
 ####################################################################
 
-#importando a biblioteca pynput, importar o método Listener do teclado
+#Importando a biblioteca pynput, e o método Listener.
 from pynput.keyboard import Listener
 
 #Localização onde será salvo o arquivo de log
