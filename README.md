@@ -1,6 +1,6 @@
 # Captura de tecla Pressionada
 
-h2>Objetivo</h2>
+<h2>Objetivo</h2>
 Script para escutar teclar pressionadas e salvar em arquivo de txt, para fins educacionais.
 
 <h2>Requisitos</h2>
