@@ -1,7 +1,7 @@
 # Captura de tecla pressionada
 Script para escutar teclar pressionadas e salvar em arquivo de txt.
 
-<h2>Requisitp</h2>
+<h2>Requisitos</h2>
 - Python
 - Biblioteca pynput
 - Método Listener
