@@ -1,2 +1,18 @@
-# Keylogger
-Script para escutar teclar pressionadas e salvar em arquivo de txt, utilizando a linguagem python.
+# Captura de tecla pressionada
+Script para escutar teclar pressionadas e salvar em arquivo de txt.
+
+<h2>Requisitp</h2>
+- Python
+- Biblioteca pynput
+- Método Listener
+- Café
+
+<h2>Writelog</h2>
+Função responsável por receber as teclas pressionadas
+
+<h2>Listener</h2>
+Método responsável por escutar o evento on_press,quando isso ocorrer e chamado a funçao writelog
+
+
+
+
