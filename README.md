@@ -8,11 +8,11 @@ Script para escutar teclas pressionadas e salvar em arquivo de txt, para fins es
 - Biblioteca pynput
 - Método Listener
 
-<h2>Writelog</h2>
+<h2>On_press</h2>
 Função responsável por receber as teclas pressionadas.
 
 <h2>Listener</h2>
-Método responsável por escutar o evento on_press, quando isso ocorrer e chamado a funçao writelog.
+Método responsável por escutar o evento on_press
 
 
 
