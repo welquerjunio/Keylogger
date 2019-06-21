@@ -1,7 +1,7 @@
 # Captura de tecla Pressionada
 
 <h2>Objetivo</h2>
-Script para escutar teclas pressionadas e salvar em arquivo de txt, para fins estudos.
+Script para escutar teclas pressionadas e salvar em arquivo de txt, para fins de estudos.
 
 <h2>Requisitos</h2>
 - Python
