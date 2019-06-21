@@ -8,6 +8,9 @@ Script para escutar teclas pressionadas e salvar em arquivo txt, para fins de es
 <p>Biblioteca pynput</p>
 <p>Método Listener</p>
 
+<h2>Pynput</h2>
+É uma biblioteca que permite controlar e monitorar dispositivos de entrada. Atualmente, a entrada e monitoração de mouse e teclado são suportadas.
+
 <h2>On_press</h2>
 Função responsável por receber as teclas pressionadas.
 
